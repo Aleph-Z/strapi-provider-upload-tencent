@@ -34,7 +34,8 @@
   },
   "homepage": "https://github.com/Turkyden/strapi-provider-upload-tencent#readme",
   "dependencies": {
-    "cos-nodejs-sdk-v5": "^2.5.9"
+    "cos-nodejs-sdk-v5": "^2.5.9",
+    "image-size": "^0.8.3"
   },
   "engines": {
     "node": ">=10.0.0",
